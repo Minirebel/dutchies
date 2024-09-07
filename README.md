@@ -13,7 +13,7 @@ and last i fixed the code for each suit (using the example from SDM_0)
 ----
 # what exactly is inside the mod?
 ----
-![Alt text](spades.jpg) <br>
+![Alt text](photo's/spades.png) <br>
 ![Diamonds](https://drive.google.com/uc?id=<YOUR_IMAGE_ID>) <br>
 ![Clubs](https://drive.google.com/uc?id=<YOUR_IMAGE_ID>) <br>
 ![Hearts](https://drive.google.com/uc?id=<YOUR_IMAGE_ID>) <br>
