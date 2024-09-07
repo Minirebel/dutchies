@@ -3,7 +3,7 @@
 a mod which lets you customize the face cards into dutch face cards!<br>
 <br>
 (the art is very detailed so also kind of blurry, maybe i'll get a simplefied version in sometime)
-
+there also isn't a high contrast YET
 -----
 Q: how did you make the art? <br>
 <br>
