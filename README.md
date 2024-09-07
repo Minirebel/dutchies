@@ -11,6 +11,13 @@ A: i took a pickture of google called: dutch face cards, then i put it into "pix
 then i fixed them up! (removing the background, fixing the cut off, all those things)
 and last i fixed the code for each suit (using the example from SDM_0)
 ----
+# what exactly is inside the mod?
+----
+![Spades](https://drive.google.com/uc?id=<1wajK42HtnNZvpcpYEAlF_TDXmyZ4jIJM/view?usp=sharing>)
+![Diamonds](https://drive.google.com/uc?id=<YOUR_IMAGE_ID>)
+![Clubs](https://drive.google.com/uc?id=<YOUR_IMAGE_ID>)
+![Hearts](https://drive.google.com/uc?id=<YOUR_IMAGE_ID>)
+
 
 
 Creddits:<br>
