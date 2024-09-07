@@ -11,7 +11,7 @@ A: i took a pickture of google called: dutch face cards, then i put it into "pix
 then i fixed them up! (removing the background, fixing the cut off, all those things)
 and last i fixed the code for each suit (using the example from SDM_0)
 ----
-# what exactly is inside the mod?
+# how does it look in game?
 ----
 ![in deck](photo's/whole_deck.png) <br>
 ![spade](photo's/spades.png) <br>
