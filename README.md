@@ -21,6 +21,7 @@ and last i fixed the code for each suit (using the example from SDM_0)
 
 Creddits:<br>
 Art - MiniRebel <br>
+high contrast - Larswijn <br>
 Code - MiniRebel <br>
 Ideas - Minirebel<br>
 Special thanks to SDM_0 for the example i could build on.<br>
